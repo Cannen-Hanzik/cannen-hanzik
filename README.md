@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web Development at **Bloomtech Institute of Technology** </br>and Computer Science at **UMGC**
 <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannen-hanzik&layout=compact&border_radius=1em&title_color=blue" /></p>
 - 📫 How to reach me: <p><a href='mailto:dev.cannenhanzik@gmail.com'>My Professional Email</a> </p>
-- ⚡ Fun fact: **I am extremely interested in learning as many programming languages as possible and pursuing my masters degree**
+- ⚡ Fun fact: I am extremely interested in learning as many programming languages as possible and pursuing my masters degree
 <h3 align='left'>Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cannen-hanzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cannen-hanzik" height="30" width="40" /></a>
